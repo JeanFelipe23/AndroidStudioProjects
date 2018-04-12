@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JokenPo</string>
+
+    <string name="opçoes">Escolha uma opçao</string>
+    <string name="ultimaJogada">Última Jogada</string>
+    <string name="jogadaPlayer">Você</string>
+    <string name="resultado">Resultado</string>
+    <string name="jogadaPC">Android</string>
+    <string name="venceu">Você Ganhou!</string>
+    <string name="perdeu">Voce Perdeu, SEU FRACASSADO!</string>
+    <string name="empatou">Empatou :)</string>
+
+
+
+
+
+
+
+
+</resources>
